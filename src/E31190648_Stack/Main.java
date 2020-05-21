@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Tugas_Struktur_Data;
+package E31190648_Stack;
 import java.util.*;//memamnggil class java
 /**
  *
